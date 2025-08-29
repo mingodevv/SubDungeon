@@ -1325,3 +1325,213 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.08.29-12.47.39:113][  0]LogLiveCoding: Display: Successfully initialized, removing startup thread
 [2025.08.29-12.47.39:177][  0]LogWebBrowser: Loaded CEF3 version 90.6.7.2358 from E:/Logiciel/EpicGames/Games/UE_5.5/Engine/Binaries/ThirdParty/CEF3/Win64
 [2025.08.29-12.47.39:178][  0]LogCEFBrowser: CEF GPU acceleration enabled
+[2025.08.29-12.47.39:390][  0]LogConfig: Applying CVar settings from Section [/Script/NNEDenoiser.NNEDenoiserSettings] File [Engine]
+[2025.08.29-12.47.39:397][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Plugins/Interchange/Editor/Content/Old/Tiles/Outer/alertSolid.png' error.
+[2025.08.29-12.47.39:397][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Plugins/Interchange/Editor/Content/Old/Tiles/Outer/alertSolid.png
+[2025.08.29-12.47.39:512][  0]SourceControl: Revision control is disabled
+[2025.08.29-12.47.39:524][  0]SourceControl: Revision control is disabled
+[2025.08.29-12.47.39:555][  0]LogConfig: Branch 'ObjectMixerSerializedData' had been unloaded. Reloading on-demand took 0.61ms
+[2025.08.29-12.47.39:562][  0]LogConfig: Branch 'Crypto' had been unloaded. Reloading on-demand took 0.35ms
+[2025.08.29-12.47.39:837][  0]LogTemp: USupabaseClient instance created.
+[2025.08.29-12.47.39:837][  0]LogTemp: USupabaseClient instance created.
+[2025.08.29-12.47.39:842][  0]LogEOSIntegrationKit: Automatically setting up OnlineSubsystemEIK is disabled
+[2025.08.29-12.47.39:864][  0]LogEIKSDK: Loading EOS SDK from main plugin binaries: ../../../Engine/Plugins/Marketplace/EOSIntegcb83f1cd4668V7/Source/ThirdParty/EIKSDK/Bin/EOSSDK-Win64-Shipping.dll.
+[2025.08.29-12.47.39:871][  0]LogEIKSDK: Initializing EOSSDK Version:1.17.0-39599718
+[2025.08.29-12.47.39:890][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2025.08.29-12.47.39:904][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2025.08.29-12.47.39:904][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2025.08.29-12.47.39:960][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'E:/Logiciel/EpicGames/Games/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/glf/resources/plugInfo.json'
+[2025.08.29-12.47.39:960][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'E:/Logiciel/EpicGames/Games/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/hdGp/resources/plugInfo.json'
+[2025.08.29-12.47.39:960][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'E:/Logiciel/EpicGames/Games/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/usdUI/resources/plugInfo.json'
+[2025.08.29-12.47.39:960][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'E:/Logiciel/EpicGames/Games/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/hdStorm/resources/plugInfo.json'
+[2025.08.29-12.47.39:960][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'E:/Logiciel/EpicGames/Games/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/hd/resources/plugInfo.json'
+[2025.08.29-12.47.39:961][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'E:/Logiciel/EpicGames/Games/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/sdf/resources/plugInfo.json'
+[2025.08.29-12.47.39:961][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'E:/Logiciel/EpicGames/Games/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/sdrGlslfx/resources/plugInfo.json'
+[2025.08.29-12.47.39:961][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'E:/Logiciel/EpicGames/Games/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/usd/resources/plugInfo.json'
+[2025.08.29-12.47.39:963][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'E:/Logiciel/EpicGames/Games/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/usdVolImaging/resources/plugInfo.json'
+[2025.08.29-12.47.39:965][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'E:/Logiciel/EpicGames/Games/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/hdx/resources/plugInfo.json'
+[2025.08.29-12.47.39:965][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'E:/Logiciel/EpicGames/Games/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/hgiGL/resources/plugInfo.json'
+[2025.08.29-12.47.39:966][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'E:/Logiciel/EpicGames/Games/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/usdGeom/resources/plugInfo.json'
+[2025.08.29-12.47.39:967][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'E:/Logiciel/EpicGames/Games/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/usdHydra/resources/plugInfo.json'
+[2025.08.29-12.47.39:967][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'E:/Logiciel/EpicGames/Games/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/hio/resources/plugInfo.json'
+[2025.08.29-12.47.39:967][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'E:/Logiciel/EpicGames/Games/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/usdImagingGL/resources/plugInfo.json'
+[2025.08.29-12.47.39:968][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'E:/Logiciel/EpicGames/Games/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/usdLux/resources/plugInfo.json'
+[2025.08.29-12.47.39:969][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'E:/Logiciel/EpicGames/Games/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/ndr/resources/plugInfo.json'
+[2025.08.29-12.47.39:969][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'E:/Logiciel/EpicGames/Games/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/usdProc/resources/plugInfo.json'
+[2025.08.29-12.47.39:970][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'E:/Logiciel/EpicGames/Games/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/usdAbc/resources/plugInfo.json'
+[2025.08.29-12.47.39:970][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'E:/Logiciel/EpicGames/Games/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/usdProcImaging/resources/plugInfo.json'
+[2025.08.29-12.47.39:971][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'E:/Logiciel/EpicGames/Games/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/usdImaging/resources/plugInfo.json'
+[2025.08.29-12.47.39:972][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'E:/Logiciel/EpicGames/Games/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/usdRender/resources/plugInfo.json'
+[2025.08.29-12.47.39:972][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'E:/Logiciel/EpicGames/Games/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/usdShaders/resources/plugInfo.json'
+[2025.08.29-12.47.39:973][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'E:/Logiciel/EpicGames/Games/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/usdSkelImaging/resources/plugInfo.json'
+[2025.08.29-12.47.39:973][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'E:/Logiciel/EpicGames/Games/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/usdSkel/resources/plugInfo.json'
+[2025.08.29-12.47.39:973][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'E:/Logiciel/EpicGames/Games/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/usdMtlx/resources/plugInfo.json'
+[2025.08.29-12.47.39:973][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'E:/Logiciel/EpicGames/Games/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/usdVol/resources/plugInfo.json'
+[2025.08.29-12.47.39:973][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'E:/Logiciel/EpicGames/Games/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/usdRiPxrImaging/resources/plugInfo.json'
+[2025.08.29-12.47.39:974][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'E:/Logiciel/EpicGames/Games/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/usdMedia/resources/plugInfo.json'
+[2025.08.29-12.47.39:974][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'E:/Logiciel/EpicGames/Games/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/ar/resources/plugInfo.json'
+[2025.08.29-12.47.39:975][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'E:/Logiciel/EpicGames/Games/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/usdPhysics/resources/plugInfo.json'
+[2025.08.29-12.47.39:976][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'E:/Logiciel/EpicGames/Games/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/usdShade/resources/plugInfo.json'
+[2025.08.29-12.47.39:976][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'E:/Logiciel/EpicGames/Games/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/hdSt/resources/plugInfo.json'
+[2025.08.29-12.47.39:977][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'E:/Logiciel/EpicGames/Games/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/usdRi/resources/plugInfo.json'
+[2025.08.29-12.47.39:978][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'E:/Logiciel/EpicGames/Games/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/usd/resources/codegenTemplates/plugInfo.json'
+[2025.08.29-12.47.40:022][  0]LogCollectionManager: Loaded 0 collections in 0.000618 seconds
+[2025.08.29-12.47.40:026][  0]LogFileCache: Scanning file cache for directory 'E:/Github/SubDungeonGit/Saved/Collections/' took 0.00s
+[2025.08.29-12.47.40:029][  0]LogFileCache: Scanning file cache for directory 'E:/Github/SubDungeonGit/Content/Developers/andyr/Collections/' took 0.00s
+[2025.08.29-12.47.40:032][  0]LogFileCache: Scanning file cache for directory 'E:/Github/SubDungeonGit/Content/Collections/' took 0.00s
+[2025.08.29-12.47.40:094][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Plugins/Developer/PlasticSourceControl/Resources/Icon128.png' error.
+[2025.08.29-12.47.40:095][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Plugins/Developer/PlasticSourceControl/Resources/Icon128.png
+[2025.08.29-12.47.40:096][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Platforms/VisionOS/Content/Editor/Slate/Launcher/Platform_VisionOS_128x.png' error.
+[2025.08.29-12.47.40:096][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Platforms/VisionOS/Content/Editor/Slate/Launcher/Platform_VisionOS_128x.png
+[2025.08.29-12.47.40:096][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Platforms/VisionOS/Content/Editor/Slate/Launcher/Platform_VisionOS_24x.png' error.
+[2025.08.29-12.47.40:096][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Platforms/VisionOS/Content/Editor/Slate/Launcher/Platform_VisionOS_24x.png
+[2025.08.29-12.47.40:128][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Plugins/Interchange/Editor/Content/Old/Tiles/Outer/alertSolid.png' error.
+[2025.08.29-12.47.40:128][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Plugins/Interchange/Editor/Content/Old/Tiles/Outer/alertSolid.png
+[2025.08.29-12.47.40:161][  0]LogDiscord: EIK: DiscordGame is disabled, skipping DiscordGame SDK load
+[2025.08.29-12.47.40:180][  0]LogUObjectArray: 45652 objects as part of root set at end of initial load.
+[2025.08.29-12.47.40:180][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2025.08.29-12.47.40:190][  0]LogStreaming: Display: AsyncLoading2 - NotifyRegistrationComplete: Registered 38316 public script object entries (1031.60 KB)
+[2025.08.29-12.47.40:190][  0]LogStreaming: Display: AsyncLoading2 - Thread Started: false, IsInitialLoad: false
+[2025.08.29-12.47.40:253][  0]LogClass: Error: BoolProperty FTwitchBanEvent::bWasPermanent is not initialized properly. Module:TwitchPlugin File:Public/TwitchChatConnector.h
+[2025.08.29-12.47.40:256][  0]LogClass: Display: 1 Uninitialized script struct members found including 0 object properties
+[2025.08.29-12.47.40:286][  0]LogAutomationTest: Error: LogClass: BoolProperty FTwitchBanEvent::bWasPermanent is not initialized properly. Module:TwitchPlugin File:Public/TwitchChatConnector.h
+[2025.08.29-12.47.40:286][  0]LogEngine: Initializing Engine...
+[2025.08.29-12.47.40:286][  0]LogTemp: Warning: Discord SDK Not Loaded
+[2025.08.29-12.47.40:286][  0]LogDiscord: SDK load failed, disabling Discord subsystem
+[2025.08.29-12.47.40:288][  0]LogStylusInput: Initializing StylusInput subsystem.
+[2025.08.29-12.47.40:288][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2025.08.29-12.47.40:362][  0]LogTextureFormatOodle: Display: Oodle Texture loading DLL: oo2tex_win64_2.9.11.dll
+[2025.08.29-12.47.40:376][  0]LogChaosDD: Creating Chaos Debug Draw Scene for world Untitled
+[2025.08.29-12.47.40:384][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2025.08.29-12.47.40:384][  0]LogInit: Texture streaming: Enabled
+[2025.08.29-12.47.40:392][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data. AppVersion = 5.5.4-40574608+++UE5+Release-5.5
+[2025.08.29-12.47.40:397][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2025.08.29-12.47.40:402][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2025.08.29-12.47.40:402][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2025.08.29-12.47.40:402][  0]LogAudio: Display: Audio Device Manager Initialized
+[2025.08.29-12.47.40:402][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2025.08.29-12.47.40:402][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.08.29-12.47.40:402][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.08.29-12.47.40:402][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.08.29-12.47.40:402][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.08.29-12.47.40:402][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.08.29-12.47.40:402][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.08.29-12.47.40:402][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.08.29-12.47.40:402][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.08.29-12.47.40:402][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.08.29-12.47.40:402][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.08.29-12.47.40:402][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.08.29-12.47.40:407][  0]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.08.29-12.47.40:438][  0]LogAudioMixer: Display: Using Audio Hardware Device Casque (2- Razer Nari Ultimate - Game)
+[2025.08.29-12.47.40:439][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.08.29-12.47.40:440][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.08.29-12.47.40:440][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.08.29-12.47.40:441][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2025.08.29-12.47.40:441][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2025.08.29-12.47.40:441][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2025.08.29-12.47.40:441][  0]LogInit: FAudioDevice initialized with ID 1.
+[2025.08.29-12.47.40:441][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=1
+[2025.08.29-12.47.40:443][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2025.08.29-12.47.40:443][  0]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 1
+[2025.08.29-12.47.40:447][  0]LogCsvProfiler: Display: Metadata set : largeworldcoordinates="1"
+[2025.08.29-12.47.40:451][  0]LogInit: Undo buffer set to 256 MB
+[2025.08.29-12.47.40:451][  0]LogInit: Transaction tracking system initialized
+[2025.08.29-12.47.40:507][  0]LogConfig: Branch 'LocalizationServiceSettings' had been unloaded. Reloading on-demand took 0.49ms
+[2025.08.29-12.47.40:512][  0]LocalizationService: Localization service is disabled
+[2025.08.29-12.47.40:522][  0]LogTimingProfiler: Initialize
+[2025.08.29-12.47.40:522][  0]LogTimingProfiler: OnSessionChanged
+[2025.08.29-12.47.40:522][  0]LoadingProfiler: Initialize
+[2025.08.29-12.47.40:522][  0]LoadingProfiler: OnSessionChanged
+[2025.08.29-12.47.40:522][  0]LogNetworkingProfiler: Initialize
+[2025.08.29-12.47.40:522][  0]LogNetworkingProfiler: OnSessionChanged
+[2025.08.29-12.47.40:522][  0]LogMemoryProfiler: Initialize
+[2025.08.29-12.47.40:522][  0]LogMemoryProfiler: OnSessionChanged
+[2025.08.29-12.47.40:698][  0]LogFileCache: Scanning file cache for directory 'E:/Github/SubDungeonGit/Content/' took 0.04s
+[2025.08.29-12.47.40:699][  0]LogPython: Using Python 3.11.8
+[2025.08.29-12.47.41:390][  0]LogPython: Display: No enabled plugins with python dependencies found, skipping
+[2025.08.29-12.47.41:401][  0]LogRenderer: Requested compilation of Path Tracing RTPSOs (1 permutations).
+[2025.08.29-12.47.41:436][  0]LogLevelSequenceEditor: LevelSequenceEditor subsystem initialized.
+[2025.08.29-12.47.41:474][  0]LogStreaming: Warning: Failed to read file 'Common/Selector.png' error.
+[2025.08.29-12.47.41:474][  0]LogSlate: Could not find file for Slate resource: Common/Selector.png
+[2025.08.29-12.47.41:514][  0]LogEditorDataStorage: Initializing
+[2025.08.29-12.47.41:514][  0]LogEditorDataStorage: Initialized
+[2025.08.29-12.47.41:535][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2025.08.29-12.47.41:539][  0]SourceControl: Revision control is disabled
+[2025.08.29-12.47.41:539][  0]LogUnrealEdMisc: Loading editor; pre map load, took 10.263
+[2025.08.29-12.47.41:539][  0]Cmd: MAP LOAD FILE="../../../../../../../Github/SubDungeonGit/Content/Maps/MainMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2025.08.29-12.47.41:541][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2025.08.29-12.47.41:541][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.29-12.47.41:548][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.08.29-12.47.41:550][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2025.08.29-12.47.41:556][  0]LogAssetRegistry: Display: Triggering cache save on discovery complete
+[2025.08.29-12.47.41:684][  0]LogBlueprint: Warning: Timeline T_Cam Track time in /Engine/Transient.REINST_BP_Player_C_20 has an invalid curve.  Please fix!
+[2025.08.29-12.47.41:879][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'MainMap'.
+[2025.08.29-12.47.41:879][  0]LogChaosDD: Creating Chaos Debug Draw Scene for world MainMap
+[2025.08.29-12.47.41:883][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2025.08.29-12.47.41:883][  0]LogNavigationDataBuild: Display:    RebuildAll building NavData:  Name Default class /Script/NavigationSystem.RecastNavMesh agent radius 35.0.
+[2025.08.29-12.47.41:888][  0]LogNavigationDataBuild: Display:    ANavigationData::RebuildAll load time: 0.01s
+[2025.08.29-12.47.41:900][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2025.08.29-12.47.41:900][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2025.08.29-12.47.41:901][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,044ms to complete.
+[2025.08.29-12.47.41:905][  0]LogUnrealEdMisc: Total Editor Startup Time, took 10.630
+[2025.08.29-12.47.41:997][  0]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2025.08.29-12.47.42:029][  0]LogSlate: The tab "TopLeftModeTab" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2025.08.29-12.47.42:029][  0]LogSlate: The tab "TopLeftModeTab" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2025.08.29-12.47.42:029][  0]LogSlate: The tab "TopLeftModeTab" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2025.08.29-12.47.42:125][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.08.29-12.47.42:160][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.08.29-12.47.42:192][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.08.29-12.47.42:223][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.08.29-12.47.42:260][  0]LogPakFile: Initializing PakPlatformFile
+[2025.08.29-12.47.42:262][  0]LogPakFile: Display: Mounted Pak file 'E:/Logiciel/EpicGames/Games/UE_5.5/FeaturePacks/StarterContent.upack', mount point: 'root:/'
+[2025.08.29-12.47.42:262][  0]LogPakFile: Initializing PakPlatformFile
+[2025.08.29-12.47.42:262][  0]LogPakFile: Display: Mounted Pak file 'E:/Logiciel/EpicGames/Games/UE_5.5/FeaturePacks/TP_FirstPerson.upack', mount point: 'root:/'
+[2025.08.29-12.47.42:262][  0]LogPakFile: Initializing PakPlatformFile
+[2025.08.29-12.47.42:262][  0]LogPakFile: Display: Mounted Pak file 'E:/Logiciel/EpicGames/Games/UE_5.5/FeaturePacks/TP_FirstPersonBP.upack', mount point: 'root:/'
+[2025.08.29-12.47.42:262][  0]LogPakFile: Initializing PakPlatformFile
+[2025.08.29-12.47.42:262][  0]LogPakFile: Display: Mounted Pak file 'E:/Logiciel/EpicGames/Games/UE_5.5/FeaturePacks/TP_HandheldARBP.upack', mount point: 'root:/'
+[2025.08.29-12.47.42:262][  0]LogPakFile: Initializing PakPlatformFile
+[2025.08.29-12.47.42:262][  0]LogPakFile: Display: Mounted Pak file 'E:/Logiciel/EpicGames/Games/UE_5.5/FeaturePacks/TP_ThirdPerson.upack', mount point: 'root:/'
+[2025.08.29-12.47.42:264][  0]LogPakFile: Initializing PakPlatformFile
+[2025.08.29-12.47.42:264][  0]LogPakFile: Display: Mounted Pak file 'E:/Logiciel/EpicGames/Games/UE_5.5/FeaturePacks/TP_ThirdPersonBP.upack', mount point: 'root:/'
+[2025.08.29-12.47.42:264][  0]LogPakFile: Initializing PakPlatformFile
+[2025.08.29-12.47.42:264][  0]LogPakFile: Display: Mounted Pak file 'E:/Logiciel/EpicGames/Games/UE_5.5/FeaturePacks/TP_TopDown.upack', mount point: 'root:/'
+[2025.08.29-12.47.42:264][  0]LogPakFile: Initializing PakPlatformFile
+[2025.08.29-12.47.42:264][  0]LogPakFile: Display: Mounted Pak file 'E:/Logiciel/EpicGames/Games/UE_5.5/FeaturePacks/TP_TopDownBP.upack', mount point: 'root:/'
+[2025.08.29-12.47.42:264][  0]LogPakFile: Initializing PakPlatformFile
+[2025.08.29-12.47.42:264][  0]LogPakFile: Display: Mounted Pak file 'E:/Logiciel/EpicGames/Games/UE_5.5/FeaturePacks/TP_VehicleAdvBP.upack', mount point: 'root:/'
+[2025.08.29-12.47.42:264][  0]LogPakFile: Initializing PakPlatformFile
+[2025.08.29-12.47.42:265][  0]LogPakFile: Display: Mounted Pak file 'E:/Logiciel/EpicGames/Games/UE_5.5/FeaturePacks/TP_VirtualRealityBP.upack', mount point: 'root:/'
+[2025.08.29-12.47.42:353][  0]LogSlate: Took 0.000273 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2025.08.29-12.47.42:356][  0]LogSlate: Took 0.000180 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2025.08.29-12.47.42:384][  0]LogNNEDenoiser: ApplySettings: bDenoiserEnabled 1
+[2025.08.29-12.47.42:386][  0]LogNNEDenoiser: Loaded input mapping from NNEDIM_ColorAlbedoNormal_Alpha
+[2025.08.29-12.47.42:387][  0]LogNNEDenoiser: Loaded output mapping from NNEDOM_Output_Alpha
+[2025.08.29-12.47.42:387][  0]LogNNEDenoiser: Try create model instance with runtime NNERuntimeORTDml on RDG...
+[2025.08.29-12.47.42:420][  0]LogNNEDenoiser: Display: Created model instance with runtime NNERuntimeORTDml on RDG
+[2025.08.29-12.47.42:420][  0]LogNNEDenoiser: Create denoiser from asset /NNEDenoiser/NNED_Oidn2-3_Balanced_Alpha.NNED_Oidn2-3_Balanced_Alpha...
+[2025.08.29-12.47.42:421][  0]LogNNEDenoiser: Loaded input mapping from NNEDTIM_ColorAlbedoNormal_Alpha
+[2025.08.29-12.47.42:421][  0]LogNNEDenoiser: Loaded output mapping from NNEDTOM_Output_Alpha
+[2025.08.29-12.47.42:421][  0]LogNNEDenoiser: Try create model instance with runtime NNERuntimeORTDml on RDG...
+[2025.08.29-12.47.42:451][  0]LogNNEDenoiser: Display: Created model instance with runtime NNERuntimeORTDml on RDG
+[2025.08.29-12.47.42:452][  0]LogNNEDenoiser: Create temporal denoiser from asset /NNEDenoiser/NNEDT_Oidn2-3_Balanced_Alpha.NNEDT_Oidn2-3_Balanced_Alpha...
+[2025.08.29-12.47.42:518][  0]LogD3D12RHI: Creating RTPSO with 21 shaders (0 cached, 21 new) took 42.10 ms. Compile time 24.46 ms, link time 17.47 ms.
+[2025.08.29-12.47.42:677][  0]LogStall: Startup...
+[2025.08.29-12.47.42:680][  0]LogStall: Startup complete.
+[2025.08.29-12.47.42:698][  0]LogLoad: (Engine Initialization) Total time: 11.42 seconds
+[2025.08.29-12.47.42:840][  0]LogAssetRegistry: Display: Asset registry cache written as 83.3 MiB to ../../../../../../../Github/SubDungeonGit/Intermediate/CachedAssetRegistry_*.bin
+[2025.08.29-12.47.42:872][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2025.08.29-12.47.42:872][  0]LogCsvProfiler: Display: Metadata set : streamingpoolsizemb="1000"
+[2025.08.29-12.47.42:880][  0]LogSlate: Took 0.000101 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2025.08.29-12.47.42:901][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.29-12.47.42:913][  0]LogPython: Display: Running start-up script E:/Logiciel/EpicGames/Games/UE_5.5/Engine/Plugins/Animation/ControlRig/Content/Python/init_unreal.py... started...
+[2025.08.29-12.47.42:940][  0]LogPython: registering <class 'ControlRigWorkflows.workflow_deformation_rig_preset.provider'>
+
+[2025.08.29-12.47.42:952][  0]LogPython: Display: Running start-up script E:/Logiciel/EpicGames/Games/UE_5.5/Engine/Plugins/Animation/ControlRig/Content/Python/init_unreal.py... took 39.259 ms
+[2025.08.29-12.47.42:952][  0]LogLiveCoding: Display: LiveCodingConsole Arguments: SubDungeonEditor Win64 Development
+[2025.08.29-12.47.43:047][  1]LogAssetRegistry: AssetRegistryGather time 3.8066s: AssetDataDiscovery 0.0639s, AssetDataGather 3.6484s, StoreResults 0.0943s. Wall time 7.2030s.
+	NumCachedDirectories 0. NumUncachedDirectories 1895. NumCachedFiles 0. NumUncachedFiles 16854.
+	BackgroundTickInterruptions 0.
+[2025.08.29-12.47.43:068][  1]LogSourceControl: Uncontrolled asset enumeration started...
+[2025.08.29-12.47.43:068][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000000 seconds (updated 0 objects)
+[2025.08.29-12.47.43:290][ 14]LogSourceControl: Uncontrolled asset enumeration finished in 0.221023 seconds (Found 16829 uncontrolled assets)
