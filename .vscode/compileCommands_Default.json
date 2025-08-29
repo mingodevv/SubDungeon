@@ -1,0 +1,42 @@
+[
+	{
+		"file": "E:\\Github\\SubDungeon\\Source\\SubDungeon\\SubDungeon.Build.cs",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@E:\\Github\\SubDungeon\\.vscode\\compileCommands_Default\\SubDungeon.1.rsp"
+		],
+		"directory": "E:\\Logiciel\\EpicGames\\Games\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "E:\\Github\\SubDungeon\\Source\\SubDungeon\\SubDungeon.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@E:\\Github\\SubDungeon\\.vscode\\compileCommands_Default\\SubDungeon.1.rsp"
+		],
+		"directory": "E:\\Logiciel\\EpicGames\\Games\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "E:\\Github\\SubDungeon\\Source\\SubDungeon\\SubDungeon.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@E:\\Github\\SubDungeon\\.vscode\\compileCommands_Default\\SubDungeon.1.rsp"
+		],
+		"directory": "E:\\Logiciel\\EpicGames\\Games\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "E:\\Github\\SubDungeon\\Source\\SubDungeon\\debug.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@E:\\Github\\SubDungeon\\.vscode\\compileCommands_Default\\SubDungeon.1.rsp"
+		],
+		"directory": "E:\\Logiciel\\EpicGames\\Games\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "E:\\Github\\SubDungeon\\Source\\SubDungeon\\debug.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@E:\\Github\\SubDungeon\\.vscode\\compileCommands_Default\\SubDungeon.1.rsp"
+		],
+		"directory": "E:\\Logiciel\\EpicGames\\Games\\UE_5.5\\Engine\\Source"
+	}
+]
