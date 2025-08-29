@@ -1,0 +1,39 @@
+{
+	"Targets": [
+		{
+			"Name": "LiveLinkHub",
+			"Path": "..\\..\\..\\Logiciel\\EpicGames\\Games\\UE_5.5\\Engine\\Source\\Programs\\LiveLinkHub\\Source\\LiveLinkHub.Target.cs",
+			"Type": "Editor"
+		},
+		{
+			"Name": "DotNetPerforceLib",
+			"Path": "..\\..\\..\\Logiciel\\EpicGames\\Games\\UE_5.5\\Engine\\Source\\Programs\\Shared\\EpicGames.Perforce.Native\\DotNetPerforceLib.Target.cs",
+			"Type": "Program"
+		},
+		{
+			"Name": "EventLoopUnitTests",
+			"Path": "..\\..\\..\\Logiciel\\EpicGames\\Games\\UE_5.5\\Engine\\Source\\Runtime\\Online\\Experimental\\EventLoopTests\\EventLoopUnitTests.Target.cs",
+			"Type": "Program"
+		},
+		{
+			"Name": "UnrealEditor",
+			"Path": "..\\..\\..\\Logiciel\\EpicGames\\Games\\UE_5.5\\Engine\\Source\\UnrealEditor.Target.cs",
+			"Type": "Editor"
+		},
+		{
+			"Name": "UnrealGame",
+			"Path": "..\\..\\..\\Logiciel\\EpicGames\\Games\\UE_5.5\\Engine\\Source\\UnrealGame.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "SubDungeon",
+			"Path": "..\\Source\\SubDungeon.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "SubDungeonEditor",
+			"Path": "..\\Source\\SubDungeonEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
